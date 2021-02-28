@@ -6,7 +6,7 @@
 
   <br>
   <br>
-  <img src="https://raw.githubusercontent.com/myl0204/myl0204/main/img/haha.jpg" width="600px">
+  <img src="https://raw.githubusercontent.com/myl0204/myl0204/main/img/haha.jpg" width="250px">
   <br>
   <br>
   <p>It's haha, my boy.</p>
